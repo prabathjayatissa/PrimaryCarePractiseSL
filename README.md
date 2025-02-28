@@ -5,6 +5,7 @@ The system includes:
 
 Dashboard
 
+
 Key metrics and statistics
 Recent patients overview
 Today's appointments
